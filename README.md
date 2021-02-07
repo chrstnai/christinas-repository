@@ -8,4 +8,4 @@ Hello! I'm Christina and my pronouns are she/her. I am a MA Design Candidate at 
 I hope to learn how to combine design and data through visual graphics to become a better, more understandable designer. Because I don't have a traditional background in design, learning about fundamentals like color theory improves my visual work. I am also looking forward to becoming more familiar with coding websites such as GitHub!
 
 # Portfolio 
-
+This will be updated in the future!

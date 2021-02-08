@@ -9,3 +9,11 @@ I hope to learn how to combine design and data through visual graphics to become
 
 # Portfolio 
 This will be updated in the future!
+
+## Data Charts
+
+For class 2/8, we briefly went over how to make a graph on Datawrapper. Here's mine. 
+The original link to the article can be found here: https://search.proquest.com/docview/1871710986?accountid=9902
+
+<iframe title="Government Spending on Pension Benefits by Country" aria-label="chart" id="datawrapper-chart-cYQLR" src="https://datawrapper.dwcdn.net/cYQLR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
+</script>

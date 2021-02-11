@@ -12,8 +12,16 @@ This will be updated in the future!
 
 ## Data Charts
 
+
+# Government Spending on Pension Benefits by Country
 For class 2/8, we briefly went over how to make a graph on Datawrapper. Here's mine. 
 The original link to the article can be found here: https://search.proquest.com/docview/1871710986?accountid=9902
 
 <iframe title="Government Spending on Pension Benefits by Country" aria-label="chart" id="datawrapper-chart-cYQLR" src="https://datawrapper.dwcdn.net/cYQLR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
 </script>
+
+# King County Cumulative Case Counts (Feb 28 - April 12th)
+For class 2/10, we went over how to make a graph on Flourish. The original data can be found here:
+https://kingcounty.gov/depts/health/covid-19/data/daily-summary.aspx
+ 
+<div class="flourish-embed flourish-chart" data-src="visualisation/5255849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

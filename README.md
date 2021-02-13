@@ -26,13 +26,13 @@ https://kingcounty.gov/depts/health/covid-19/data/daily-summary.aspx
 <div class="flourish-embed flourish-chart" data-src="visualisation/5255849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # General Government Debt (2/12/21) 
-For our assignment this week, we created a graph based on the genreal government debt varying coutry from country. "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Changes in government debt over time primarily reflect the impact of past government deficits." (https://data.oecd.org/gga/general-government-debt.htm) 
+For our assignment this week, we created a graph based on the general government debt varying coutry from country. The information we collected describes the debt recorded from 1995 to 2018. As described from OECD's website, "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Changes in government debt over time primarily reflect the impact of past government deficits." (https://data.oecd.org/gga/general-government-debt.htm) 
 
-Here's data directly from OECD for general government debt in 2018.
+Here's data directly taken from OECD.
 
-<iframe src="https://data.oecd.org/chart/6gIY" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gIY" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+<iframe src="https://data.oecd.org/chart/6gJK" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gJK" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 1995 – 2018</a></iframe>
 
-The data below has been taken from OCED. To compare each listed country's debt from the years 1995-2018, we used flourish to create a graph for each country. Because there are so many variables, separating each country into its own chart can help distinguish a few differences quickly without putting too much strain on the eyes. For example, you can see which country's debt is consistently rising or declining.
+To compare each listed country's debt from the years 1995-2018, we used Flourish to create a graph for each country. Because there are so many variables, separating each country into its own chart can help distinguish a few differences quickly without putting too much strain on the eyes. For example, you can see which country's debt is consistently rising or declining.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283046"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 

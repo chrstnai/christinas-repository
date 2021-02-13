@@ -17,7 +17,7 @@ For class 2/8, we briefly went over how to make a graph on Datawrapper. Here's m
 The original link to the article can be found here: https://search.proquest.com/docview/1871710986?accountid=9902
 
 <iframe title="Government Spending on Pension Benefits by Country" aria-label="chart" id="datawrapper-chart-cYQLR" src="https://datawrapper.dwcdn.net/cYQLR/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="400"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}}))}();
-</script>
+ 
 
 # King County Cumulative Case Counts (Feb 28 - April 12th)
 For class 2/10, we went over how to make a graph on Flourish. The original data can be found here:
@@ -26,7 +26,18 @@ https://kingcounty.gov/depts/health/covid-19/data/daily-summary.aspx
 <div class="flourish-embed flourish-chart" data-src="visualisation/5255849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 # General Government Debt (2/12/21) 
-"General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance." (https://data.oecd.org/gga/general-government-debt.htm) 
-The data below has been taken from OCED. To compare each listed country's debt from the years 1995-2018, we used flourish to create a graph for each country. Because there are so many variables, seperating each country into its own chart can help distinguish a few differences quickly without putting too much strain on the eyes. For example, you can see which country's debt is consistently rising or declining.
+For our assignment this week, we created a graph based on the genreal government debt varying coutry from country. "General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Changes in government debt over time primarily reflect the impact of past government deficits." (https://data.oecd.org/gga/general-government-debt.htm) 
+
+Here's data directly from OECD for general government debt in 2018.
+
+<iframe src="https://data.oecd.org/chart/6gIY" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gIY" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+
+The data below has been taken from OCED. To compare each listed country's debt from the years 1995-2018, we used flourish to create a graph for each country. Because there are so many variables, separating each country into its own chart can help distinguish a few differences quickly without putting too much strain on the eyes. For example, you can see which country's debt is consistently rising or declining.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283046"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+Using this data again, I've created another similar chart but stacked the lines up instead. The reason I believe the "stacked" chart might be more appropriate because we are talking about debt. Additionally, I changed the color to red, becuse this associates with negative figures, which is what debt is referring to. As each government continues to spend more than it takes in, the debt rises which is depicted in certin countries. See the highlighted areas grow or decrease can feel more significant because our eyes are drawn to these areas. For example, Estonia feels a lot less concerning than Japan, who seems to continue rising each year. 
+ 
+I continued to keep the countries separated to prevent overcrowding the graph. I felt like having each individual chart kept a clear visual that was pleasant in a group and stood strongly alone, if needed. Even if I had categorized the countries in their respective continents, I felt like some categories would just be too large. Therefore, I believe having a grid of stacked line charts would be the best way.
+ 
+<div class="flourish-embed flourish-chart" data-src="visualisation/5283710"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

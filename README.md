@@ -12,7 +12,6 @@ This will be updated in the future!
 
 ## Data Charts
 
-
 # Government Spending on Pension Benefits by Country
 For class 2/8, we briefly went over how to make a graph on Datawrapper. Here's mine. 
 The original link to the article can be found here: https://search.proquest.com/docview/1871710986?accountid=9902
@@ -25,3 +24,9 @@ For class 2/10, we went over how to make a graph on Flourish. The original data 
 https://kingcounty.gov/depts/health/covid-19/data/daily-summary.aspx
  
 <div class="flourish-embed flourish-chart" data-src="visualisation/5255849"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# General Government Debt (2/12/21) 
+"General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance." (https://data.oecd.org/gga/general-government-debt.htm) 
+The data below has been taken from OCED. To compare each listed country's debt from the years 1995-2018, we used flourish to create a graph for each country. Because there are so many variables, seperating each country into its own chart can help distinguish a few differences quickly without putting too much strain on the eyes. For example, you can see which country's debt is consistently rising or declining.
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5283046"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

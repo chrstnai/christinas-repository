@@ -10,7 +10,7 @@ I hope to learn how to combine design and data through visual graphics to become
 # Portfolio 
 This will be updated in the future!
 
-## Data Charts
+## Final Project
 
 # Government Spending on Pension Benefits by Country
 For class 2/8, we briefly went over how to make a graph on Datawrapper. Here's mine. 

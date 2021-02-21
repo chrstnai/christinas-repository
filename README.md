@@ -41,3 +41,19 @@ Using this data again, I've created another similar chart but stacked the lines 
 I continued to keep the countries separated to prevent overcrowding the graph. I felt like having each individual chart kept a clear visual that was pleasant in a group and stood strongly alone, if needed. Even if I had categorized the countries in their respective continents, I felt like some categories would just be too large. Therefore, I believe having a grid of stacked line charts would be the best way.
  
 <div class="flourish-embed flourish-chart" data-src="visualisation/5283710"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Assignment 3 & 4
+
+For the homework assignment this week, I found an article on how the ages of Nobel winners seem to be increasing. I chose this article/data set because while I thought it was effective in showing data for their story but there were a few adjustments that could be made. The data was separated by each Nobel prize category, which was visually appealing to fit as a header image and we could see a rising trend in age (except in Peace) that worked with their story but I thought the data was forcibly dense in some areas and didn't show comparisons fairly. I also found the smooth curved trending line they used to prove their point to work in some categories but not in some.
+
+From the critique, I thought about how I could display the data as a whole or other ways of comparison, i.e. the ages of nobel prize winners in categories from 1900-1950 compared to 1950-2016 in a stacked bar chart. However, while it was easy to see the comparisons this way and this was data was over a wide time period and I thought it was important to display that. Because of this I thought about using a line graph to show the trend lines over time overall but this wouldn't show the outliers at all and this was a key component of the data. From the feedback, it sounded like most people would like to see the data as a whole because of the time span, so I stayed with the scatterplot but made some changes.
+
+I used Flourish to plot all the data on a scatterplot. Once the data was spread apart over a large x-axis, you could see while there was an increase in age, it wasn't as dramatic as the original visualization. This made a huge difference, espcially when you could separate the data in each category. You could also see how wide the gaps were in a single year or how the changes varied year to year. However, the data the story implied was correct - there was a rising trend in age but it was not as significant as it seemed. To display this trend, I set up a general linear trend line that helped showed that it wasn't as significant as it seems and would show how varied the data was. In this recreation of data visualization, I found how important the spacing of each graph was and how it could be very persuasive. 
+
+The article & data can be found below:
+https://www.economist.com/graphic-detail/2016/10/03/greying-of-the-nobel-laureates
+https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-05-14
+
+
+The link can be shown here: 
+<div class="flourish-embed flourish-scatter" data-src="visualisation/5352465"><script src="https://public.flourish.studio/resources/embed.js"></script></div>

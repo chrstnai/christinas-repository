@@ -52,6 +52,7 @@ I used Flourish to plot all the data on a scatterplot. Once the data was spread 
 
 The article & data can be found below:
 https://www.economist.com/graphic-detail/2016/10/03/greying-of-the-nobel-laureates
+
 https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-05-14
 
 

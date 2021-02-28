@@ -21,17 +21,17 @@ I think I'll start with this graph first to show the increase of crimes in compa
 ![Trend](Trend.jpg)
 I would also show a line graph comparison to show how the crimes rose in a span of a few months in 2020 as compared to 2019. The start of COVID in the US was in March and you should be to see the continued rise of crimes from there. Here, I think the media coverage is important because of how they started using Asian communities photos for their articles and how politicians kept using the name "Chinese Virus."  While this quick sketch only shows NY data, I would also show other places such as Georgia and LA as well as a comparison.
 
-![Circle Graph](Circle graph.jpg)
+![Circle Graph](Circle.jpg)
 There are all types of crimes happening from physical to verbal. While only a few of the stories are being shared online, they are mostly violent. I also want to include those like name-calling and online threats as well. I can also add reports of what Asian Americans children are being treated like in school.
 
 ![Number](Number.jpg)
-I think showing the number of crimes would be significant in comparison to 1 crime. I'm thinking of creating a visualization of 1700 human figures would show the sheer numbers of crimes.
+I think showing the number of crimes would be significant in comparison to 1 person. I'm thinking of creating a visualization of 1700 human figures would show the sheer numbers of crimes/reports.
 
 # Data/Reports to Work with
 
 The below are the data sets and reports I found. 
 
-From the American Bar Report and UN Report, there is information on what kind of violent crimes are occuring such as physical alteractions, name calling, shaming, and more. I would most likely use a circle graph here to display the variety of crimes that are happening. Th
+From the American Bar Report and UN Report, there is information on what kind of violent crimes are occuring such as physical alteractions, name calling, shaming, and more. I would most likely use a circle graph here to display the variety of crimes that are happening. 
 
 American Bar Report of NY;
 https://cdn.ymaws.com/www.aabany.org/resource/resmgr/press_releases/2021/A_Rising_Tide_of_Hate_and_Vi.pdf
@@ -44,17 +44,21 @@ The following NY 2020 Report has the recorded amount of arrests made in 2020 due
 NYPD Hate Crime Reports:
 https://www1.nyc.gov/site/nypd/stats/reports-analysis/hate-crimes.page
 
-Majority of my data will becoming from Stop AAPI Hate, an organization dedicated to spreading news and collecting reports on this subject. Some of their reports are in specific areas like LA or Georgia, so I might try to use a comparison of locations that these crimes are happening in. There is also data on what kind of crimes are happening here in general and also for children/youths in school. 
+Majority of my data will becoming from Stop AAPI Hate, an organization dedicated to spreading news and collecting reports on this subject. Some of their reports are in specific areas like LA or Georgia, so I might try to use a comparison of locations that these crimes are happening in. There is also data on what kind of crimes are happening here (Similar to the bar report). I can split these up to focus on in general reports and also one for youths because its more of a sensitive topic.
 
 Number of Reports AAPI has received & More Reports:
 http://www.asianpacificpolicyandplanningcouncil.org/wp-content/uploads/Press_Release_5_13_20.pdf
 https://stopaapihate.org/reportsreleases/
 
 
-
-
 # Method & Medium
-I will be using Shorthand to develop my website and tell this story. I also will be trying to take my own photos for this project. The way I want to tell the story is first through the large quanities of numbers. I think this is the most shocking. By first show the data like Berinato recommended, it should be a good way to start the story and continue onto why this is happening. From there, describing some potential causes like the lack of attention in media and the xenophobia spread of politicians and other new sources, I think I can also give some history on Asian communities as well to give more emotion to the story. (Maybe by mentioning what percentage of the population they make up or sharing how the COVID numbers in the Asia as well?) Finally to end, I want to include resources to help this cause like as AAPI and local non-profits.
+I will be using Shorthand to develop my website and tell this story. I also will be trying to take my own photos for this project. The way I want to tell the story is first through the large quanities of numbers and get through the number of crimes that are happening. I will also be adding hyperlinks to stories that have been reported. 
+
+To begin my story, I will first show the data like Berinato recommended. (Most likely the 1900% increase) From there, I will be describing some potential causes like the lack of attention in media and the xenophobia spread of politicians and other new sources. I can add in how these numbers are increasing in cities and places all over the United States. Here, I think most of the graphs and visuzaltions about hate crimes will lie.
+
+Moving on, I think I can also give some history on Asian communities as well to give more insight to the story. Why is this not being covered and touch a little bit on the Model Minority myth and also add some background on the percentage of the population they make up. 
+
+Finally to end, I want to include resources to help this cause like as AAPI and local non-profits in NY & LA. This would be my call-to-action area because I think there knowing all this information is helpful but also having resources to go to is vital. AAPI has numerous resources to go to for this.
 
 Articles for New Stories and Storytelling
 https://www.usatoday.com/story/news/nation/2021/02/12/asian-hate-incidents-covid-19-lunar-new-year/4447037001/

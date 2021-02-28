@@ -43,13 +43,14 @@ Below are some sketches I will be creating visualizations for.
 I think I'll start with this graph first to show the increase of crimes in comparison from 2019 to 2020. 
 1900% is an increase that's pretty incomprehensible, so I think a comparison would would be start the story strong.
 
-![alt Text](Trend.jpg)
+![Trends](Trend.jpg)
+
 I would also show a line graph comparison to show how the crimes rose in a span of a few months in 2020 as compared to 2019. The start of COVID in the US started in March and you should be to see the continued rise of crimes. While this displays only shows NY data, I would also show other places such as Georgia and LA as well.
 
-![alt Text](Circle-graph.jpg)
+![Circle Graphs](Circle-graph.jpg)
 There are all types of crimes happening. While only a few of the stories are being shared online, they are mostly violent. I also want to include those like name-calling and online threats that are happening. 
 
-![alt Text](Number.jpg)
+![Numbers](Number.jpg)
 I think showing the number of crimes would be significant in comparison to 1 crime. I'm thinking of creating a visualization of 1700 human figures would show the sheer numbers of crimes.
 
 # How to Tell the Story

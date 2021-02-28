@@ -44,7 +44,7 @@ Some of their reports are in specific areas like LA or Georgia, so I might try t
 
 Below are some sketches I will be adding.
 
-![Explanation of data viz](2019x12020.jpg)
+![alt Text](2019x2020.jpg)
 
 Articles for New Stories and Storytelling
 https://www.usatoday.com/story/news/nation/2021/02/12/asian-hate-incidents-covid-19-lunar-new-year/4447037001/

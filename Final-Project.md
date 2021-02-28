@@ -1,7 +1,3 @@
-layout: page
-title: "final Project"
-permalink: /final-project/
-
 # The Rise of Hate Crimes Against Asian Americans
 
 # Story

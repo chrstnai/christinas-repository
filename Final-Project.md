@@ -18,13 +18,13 @@ Below are some sketches I will be creating visualizations for.
 I think I'll start with this graph first to show the increase of crimes in comparison from 2019 to 2020. 
 1900% is an increase that's pretty hard to visualize, so I think a comparison would would be start the story strong. I think maybe showing the increase through an animation would be effective. I would want to see the visual percentage like the size of a circle or dots growing 1900%.
 
-![Trend](Trend.jpg)
+![alt Text](Trend.jpg)
 I would also show a line graph comparison to show how the crimes rose in a span of a few months in 2020 as compared to 2019. The start of COVID in the US was in March and you should be to see the continued rise of crimes from there. Here, I think the media coverage is important because of how they started using Asian communities photos for their articles and how politicians kept using the name "Chinese Virus."  While this quick sketch only shows NY data, I would also show other places such as Georgia and LA as a comparison and also inform readers it is happening in multiple places.
 
-![Circle Graph](Circle.jpg)
+![alt Text](Circle.jpg)
 There are all types of crimes happening from physical to verbal. While only a few of the stories are being shared online, they are mostly violent. I also want to include those like name-calling and online threats as well. I can also add reports of what Asian Americans children are being treated like in school.
 
-![Number](Number.jpg)
+![alt Text](Number.jpg)
 I think showing the number of crimes would be significant in comparison to 1 person. I'm thinking of creating a visualization of 1700 human figures would show the sheer numbers of crimes/reports.
 
 # Data/Reports to Work with

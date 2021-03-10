@@ -1,5 +1,7 @@
 # The Rise of Hate Crimes Against Asian Americans Part II 
 
+This is a continuation of my project. Link to [Part I](Final-Project-Part-I.md)
+
 # Wireframes, Storyboards, Moodboards
 
 I decided to do most of my work on Figma. I kept my moodboard/persona neaby and put most of much research up there. I laso created a wireframe of how I wanted my Shorthand website to look. My wireframe and storyboard can be seen on the figma link and I'll be including all of the text below on a walkthrough there. It should be read from left to right and is in numberical order:

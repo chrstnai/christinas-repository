@@ -37,6 +37,6 @@ While the call to action could just be non-profit resources, I thought there sho
 # Changes I Will Be Initating
 My main goal will be to make the site more personal and get people to be more invested. Without the headlines and photos, I don’t think I get the severity of the attacks across as much as news articles do. Instead, I’ll try to add quotes and numbers from articles and use color and type to create more emotion.
 
-For more details, I will be adding a section for age group. This can also resonate more with people knowing that seniors and children are being attacked. I will also be exploring to data to see if there are any correlations between type and amount of crimes in the state/area.
+For more details, I will be adding a section for age group. This can also resonate more with people knowing that seniors and children are being attacked. I will also be exploring more data to see if there are any correlations between type and amount of crimes in the state/area and possibly be adding a NYC/Cali specific one since there is more data there.
 
 Lastly, for my call to action, I will be adding resources besides nonprofit organizations such as books and websites. I think sources of information can definitely be helpful, as this was one of the main reasons I wanted to create this site - I didn’t have a go-to for information regarding Asian Hate Crimes.

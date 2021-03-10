@@ -9,11 +9,11 @@ https://www.figma.com/file/3NiMg0c6l1fbFF4nW32XvZ/Rise-of-Hate-Against-Asian-Ame
 
 As I've mentioned before, my goal is to raise awareness on the rise of hate crimes against Asian Americans and also provide some information on how crimes against Asian Americans are not new. However, because of COVID and certain hate language, these crimes have skyrocketed. A large percentage of them are extermely violent and even involve death. While these crimes are especially shocking, other instances of everyday crimes and acts of discrimination are not as widely as known. Because most Asian Americans are aware of this situation, my audience is the general public. After researching and working more on Part II, I want to also include a little more of an explanation on why this might be happening and how Asian Americans are perceived due to the Model Minority Myth. Additionally, I will be adding more resources such as websites and books.
 
-![5th](moodboard.png)
+![5th](MoodBoard.png)
 
 For my moodboard, I collected photos from Unsplash and tried to evoke certain feelings such as fear and hope. I also looked at some other nonprofit websites for inspiration and to see what kind of information they provide. The persona that I believe most of my audience will have, would be Americans who have heard on some ocassion of these crimes but not to the extent. With these two in mind, I started my wireframe.
 
-![6th](wireframe.png)
+![6th](Wireframe.png)
 ![7th](Storyboard.png)
 
 To start, my storyboard explains the process I thought the audience would go through starting with "What is this?", learning information and then statistics, and moving to "Why and How did this happen?"  Following from Part I, I decied to use a heat map to distribute the attacks across the US. This gives a pretty high level overview of what's happening and where before moving it into the details. The highest amount of crimes are located in the California and NY, where a large population is Asian American. Moving down, I provide from explanation on why this might be happening because of COVID/rhetoric and going into more detail with the data such as what qualifies as a hate crime and where these events are happening. To continue, I move onto a deeper understanding of why is this happening and some misconceptions about Asian Americans (bringing up the Model Minority Myth and how this is harmful) Finally with my call to action, I provide non-profit links that supporting this cause and sources to go to if you need to report a hate crime.

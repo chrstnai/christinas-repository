@@ -1,4 +1,4 @@
-# PART II 
+# The Rise of Hate Crimes Against Asian Americans Part II 
 
 # Wireframes, Storyboards, Moodboards
 

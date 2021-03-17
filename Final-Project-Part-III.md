@@ -56,4 +56,4 @@ Pew Research Center (2020). Income Inequality in U.S. Is Rising Most Rapidly Amo
 
 Thanks for reading!
 
-Back to [Christina's Portfolio Page](Portfolio.md)
+Back to [Christina's Portfolio Page](README.md)

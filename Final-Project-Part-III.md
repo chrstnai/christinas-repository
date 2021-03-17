@@ -1,4 +1,4 @@
-# The Rise of Hate Crimes Against Asian Americans Pacific Islanders Part II 
+# The Rise of Hate Crimes Against Asian Americans Pacific Islanders Part III
 
 This is a conclusion of my project. Link to [Part I](Final-Project-Part-I.md) and [Part II](Final-Project-Part-II.md)
 

@@ -54,6 +54,4 @@ Pew Research Center (2020). The role of race and ethnicity in Americans’ perso
 
 Pew Research Center (2020). Income Inequality in U.S. Is Rising Most Rapidly Among Asians. https://www.pewresearch.org/social-trends/2018/07/12/income-inequality-in-the-u-s-is-rising-most-rapidly-among-asians/psdt-07-12_economic_inequality-00-00/
 
-Thanks for reading!
-
-Back to [Christina's Portfolio Page](README.md)
+Thanks for reading! You can go back to my main page on the left.

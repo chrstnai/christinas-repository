@@ -1,5 +1,7 @@
 # The Rise of Hate Crimes Against Asian Americans Part I
 
+Link to [Part II](Final-Project-Part-II.md) and [Part 3](Final-Project-Part-III.md) 
+
 # Outline
 Hate crimes against Asian Americans are rapidly growing since the start of the COVID pandemic. As a reader, I want to know why they are rising so that I raise awareness on this topic and provide support to Asian commmunities. My call to action is to provide resources to help these communities and raise awareness over thes situations.
 
@@ -63,15 +65,4 @@ Finally to end, I want to include resources to help this cause like as AAPI and 
 Articles for New Stories and Storytelling
 https://www.usatoday.com/story/news/nation/2021/02/12/asian-hate-incidents-covid-19-lunar-new-year/4447037001/
 https://www.nytimes.com/2021/02/12/us/asian-american-racism.html
-https://www.nbcnewyork.com/news/local/crime-and-courts/study-shows-rise-of-hate-crimes-violence-against-asian-americans-in-nyc-during-covid/2883215/
-https://cdn.ymaws.com/www.aabany.org/resource/resmgr/press_releases/2021/A_Rising_Tide_of_Hate_and_Vi.pdf
-https://www.wsj.com/articles/new-york-city-police-mobilize-against-rise-in-hate-crimes-targeting-asians-11614118602
-https://www.thecut.com/2021/02/the-us-is-seeing-a-massive-spike-in-anti-asian-hate-crimes.html
-
-Articles for Background Info (Racism in US, Why calling it the Chinese Flu is Harmful)
-https://medicine.yale.edu/news-article/23074/
-https://www.psychologytoday.com/us/blog/the-pacific-heart/202003/calling-covid-19-chinese-virus-or-kung-flu-is-racist
-https://www.npr.org/2020/03/02/811363404/when-xenophobia-spreads-like-a-virus
-
-
-Link to [Part II](Final-Project-Part-II.md)
+https://www.nbcnewyork.com/news/local/crime-and-courts/study-shows-

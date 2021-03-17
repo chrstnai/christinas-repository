@@ -21,7 +21,8 @@ This was the start of my data story! In this part, I disucss what my ideas were,
 In this part, I begin creating data visualizations and also refining the material a little bit more. I also did a bit of user research to find out what worked and didn't worked in my visualizations.
 
 [Part III](Final-Project-Part-III.md)
-I finish up here with a reflection in this part about how my story changed and what I ended up with.
+
+I finish up here with a reflection in this final part about how my story changed and what I ended up with.
 
 The final website can be viewed here: [The Rise of Asian American Pacific Islander Hate Crimes](https://carnegiemellon.shorthandstories.com/the-rise-of-hate-crimes-against-asian-american-pacific-islanders/index.html)
 

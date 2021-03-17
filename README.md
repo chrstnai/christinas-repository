@@ -8,9 +8,24 @@ Hello! I'm Christina Ip and my pronouns are she/her. I am a MA Design Candidate 
 I hope to learn how to combine design and data through visual graphics to become a better, more understandable designer. Because I don't have a traditional background in design, learning about fundamentals such as color or clarity to represent work helps me to improve as a designer. I am also looking forward to becoming more familiar with coding websites such as GitHub!
 
 # Portfolio 
-This will be updated in the future!
+As a design student, here's a link to my portfolio: [Part I](Final-Project-Part-I.md)
 
 ## Final Project
+For my final project, I wrote a story about the Rise of Asian American Pacific Islander Hate Crimes across the United States. The purpose of this website is bring awareness about this subject and share a bit of on the history of AAPI hate in the US.
+
+There are three parts and they're linked here:
+Link to [Part I](Final-Project-Part-I.md)
+This was the start of my data story! In this part, I disucss what my ideas were, why I chose this subject, and some preliminary sketches.
+ 
+[Part II](Final-Project-Part-II.md)
+In this part, I begin creating data visualizations and also refining the material a little bit more. I also did a bit of user research to find out what worked and didn't worked in my visualizations.
+
+[Part III](Final-Project-Part-III.md)
+I finish up here with a reflection in this part about how my story changed and what I ended up with.
+
+The final website can be viewed here: [The Rise of Asian American Pacific Islander Hate Crimes](https://carnegiemellon.shorthandstories.com/the-rise-of-hate-crimes-against-asian-american-pacific-islanders/index.html)
+
+##  Classwork Assignments
 
 # Government Spending on Pension Benefits by Country
 For class 2/8, we briefly went over how to make a graph on Datawrapper. Here's mine. 

@@ -1,6 +1,6 @@
 # The Rise of Hate Crimes Against Asian Americans Pacific Islanders Part II 
 
-This is a continuation of my project. Link to [Part I](Final-Project-Part-I.md)
+This is a continuation of my project. Link to [Part I](Final-Project-Part-I.md) and [Part III](Final-Project-Part-III.md)
 
 # Wireframes, Storyboards, Moodboards
 

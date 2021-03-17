@@ -1,6 +1,6 @@
 # The Rise of Hate Crimes Against Asian Americans Part I
 
-Link to [Part II](Final-Project-Part-II.md) and [Part 3](Final-Project-Part-III.md) 
+Link to [Part II](Final-Project-Part-II.md) and [Part III](Final-Project-Part-III.md) 
 
 # Outline
 Hate crimes against Asian Americans are rapidly growing since the start of the COVID pandemic. As a reader, I want to know why they are rising so that I raise awareness on this topic and provide support to Asian commmunities. My call to action is to provide resources to help these communities, raise awareness, and provide educational resources to learn and understand why this is happening.

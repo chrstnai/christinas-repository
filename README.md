@@ -7,17 +7,17 @@ Hello! I'm Christina Ip and my pronouns are she/her. I am a MA Design Candidate 
 ## What I hope to learn
 I hope to learn how to combine design and data through visual graphics to become a better, more understandable designer. Because I don't have a traditional background in design, learning about fundamentals such as color or clarity to represent work helps me to improve as a designer. I am also looking forward to becoming more familiar with coding websites such as GitHub!
 
-## Portfolio 
-As a design student, here's a link to my portfolio: [Part I](Final-Project-Part-I.md)
-
 # Final Project
-For my final project, I wrote a story about the Rise of Asian American Pacific Islander Hate Crimes across the United States. The purpose of this website is bring awareness about this subject and share a bit of on the history of AAPI hate in the US.
+For my final project, I wrote a story about the Rise of Asian American Pacific Islander Hate Crimes across the United States. The purpose of the story is bring awareness about this subject and share a bit of on the history of AAPI hate in the US.
 
-There are three parts and they're linked here:
-Link to [Part I](Final-Project-Part-I.md)
+There are three parts and they're listed below.
+
+[Part I](Final-Project-Part-I.md)
+
 This was the start of my data story! In this part, I disucss what my ideas were, why I chose this subject, and some preliminary sketches.
  
 [Part II](Final-Project-Part-II.md)
+
 In this part, I begin creating data visualizations and also refining the material a little bit more. I also did a bit of user research to find out what worked and didn't worked in my visualizations.
 
 [Part III](Final-Project-Part-III.md)
